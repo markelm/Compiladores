@@ -1,3 +1,10 @@
+### Compiladores (CC6252)
+### Grupo
+### Markel Macedo
+### Rafael Lino
+### Danilo Bizarria
+### Matheus Ferreira
+
 print("Digite um dos seguintes inputs:\n>if\n>else\n>then\n>for\n")
 cadeia = input()
 estado = 0

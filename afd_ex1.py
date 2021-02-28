@@ -1,3 +1,11 @@
+### Compiladores (CC6252)
+
+### Grupo:
+### Markel Macedo
+### Rafael Lino
+### Danilo Bizarria
+### Matheus Ferreira
+
 cadeia = input()
 estado = 0
 def switch_afd(num, state):
