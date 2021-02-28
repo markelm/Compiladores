@@ -5,7 +5,7 @@
 ### Rafael Lino
 ### Danilo Bizarria
 ### Matheus Ferreira
-
+print('Digit uma cadeia utilizando o alfabeto [0,1]:\n')
 cadeia = input()
 estado = 0
 def switch_afd(num, state):
