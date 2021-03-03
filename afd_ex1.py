@@ -5,6 +5,7 @@
 ### Rafael Lino
 ### Danilo Bizarria
 ### Matheus Ferreira
+### Kaike Rodrigues
 print('Digit uma cadeia utilizando o alfabeto [0,1]:\n')
 cadeia = input()
 estado = 0
